@@ -10,4 +10,4 @@
 * Telegram:https://t.me/pav_59
 * Discord:@pavcode83
 * Driver’s licence:	B
-![](https://yandex.ru/images/search?text=%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA&isize=small&from=tabbar&pos=22&img_url=https%3A%2F%2Fwallbox.ru%2Fwallpapers%2Fmain%2F201445%2F607c737de5d1174.jpg&rpt=simage) 
+![](/Super-8-K.jpg) 
