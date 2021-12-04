@@ -1,6 +1,6 @@
-##CURRICULUM VITAE
+**CURRICULUM VITAE
 ---
-####`PERSONAL INFORMATION`  
+****`PERSONAL INFORMATION`  
 * Name:	Artem Ponomarew
 * Date of Birth:	24-01-1983
 * Location	Russia, Perm
