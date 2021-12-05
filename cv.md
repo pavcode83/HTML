@@ -28,17 +28,28 @@ I am a retired soldier. He worked in the field of implementation of computer equ
 * ![](image/Securitysystems.png) Security systems
 
 ## `Code Example`
-`               `
-## `EDUCATION`
+This code does not execute properly. Try to figure out why?:  
+```
+function multiply(a, b){
+  a * b
+}
+```
+Past Solutions:
+```
+function multiply(a, b){
+  return  a * b;
+}
+```  
+## EDUCATION
 Samara Law Institute of the Federal Service for the Execution of Punishments:  2000-2005
 
-## `Courses`
+## Courses
 * [![webref](image/webref.png)](https://webref.ru/course)  
 
 * [![ru.code-basics](image/Rucode.png)](https://ru.code-basics.com/)
 
 * [![Head First HTML and CSS, 2nd edition](image/Head.png)](https://wickedlysmart.com/hfhtmlcss/)
 
-## `Languages` 
+## Languages 
 * A0
 * I study duolingo[![duolingo](image/duo.png)](https://www.duolingo.com/)
