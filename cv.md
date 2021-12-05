@@ -14,7 +14,8 @@
 ### `A little bit about yourself`    
 
 I am a retired soldier. He worked in the field of implementation of computer equipment, procurement of technical means of protectionand supervision, software.During my service I realized that I really like to spend time mastering new technologies in the field of IT, gadgets. For myself, I decided to change my activity and become a front-end developer. Very sociable, I try to optimize, improve, modernize everything in my life.  I hope I succeed!  
-> *"A journey of a thousand miles begins with a single step"*  
+> *"A journey of a thousand miles begins with a single step"*
+  
 ## 
 ### `Skills`
 * ![](image/HTML.png) HTML
