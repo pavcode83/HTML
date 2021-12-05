@@ -6,8 +6,8 @@
 * Location	Russia, Perm
 * Mobile:	+7 912 4879187
 * Email: ponomarew.artem@gmail.com
-* GitHub: https://github.com/pavcode83 
-* Telegram: https://t.me/pav_59
+* GitHub: [https://github.com/pavcode83](https://github.com/pavcode83) 
+* Telegram: [https://t.me/pav_59](https://t.me/pav_59)
 * Discord:@pavcode83
 * Driver’s licence:	B
 
