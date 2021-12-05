@@ -1,6 +1,6 @@
-## CURRICULUM VITAE 
+# CURRICULUM VITAE 
 
->#### Personal information
+### `Personal information`
 * __Name:	Artem Ponomarev__
 * Date of Birth:	24-01-1983
 * Location	Russia, Perm
@@ -9,39 +9,37 @@
 * GitHub: https://github.com/pavcode83 
 * Telegram: https://t.me/pav_59
 * Discord:@pavcode83
-* Driver’s licence:	B  
-  
-  
->#### A little bit about yourself  
+* Driver’s licence:	B
+##
+### `A little bit about yourself`    
 
-I am a retired soldier. He worked in the field of implementation of computer equipment, procurement of technical means of protectionand  
-supervision, software.During my service I realized that I really like to spend time mastering new technologies in the field of IT, gadgets.  
-For myself, I decided to change my activity and become a front-end developer. Very sociable, I try to optimize, improve, modernize everything  
-in my life.  I hope I succeed!  
-*`A journey of a thousand miles begins with a single step`*  
-
->#### Skills
-* ![](image\HTML.png) HTML
-* ![](image\CSS.png) CSS
-* ![](image\git.png) CIT
-* ![](image\github.png) CitHub
-* ![](image\vs-code.png) Vc Code
-* ![](image\movavi.png) Movavi Video Suite 
-* ![](image\Photoshop.png) Photoshop – _little_
-* ![](image\Videosurveillance.png) Video surveillance
-* ![](image\Securitysystems.png) Security systems
-
->#### Code Example
-Nane
->#### EDUCATION
+I am a retired soldier. He worked in the field of implementation of computer equipment, procurement of technical means of protectionand supervision, software.During my service I realized that I really like to spend time mastering new technologies in the field of IT, gadgets. For myself, I decided to change my activity and become a front-end developer. Very sociable, I try to optimize, improve, modernize everything in my life.  I hope I succeed!  
+> *"A journey of a thousand miles begins with a single step"*  
+## 
+### `Skills`
+* ![](image/HTML.png) HTML
+* ![](image/CSS.png) CSS
+* ![](image/git.png) CIT
+* ![](image/github.png) CitHub
+* ![](image/vs-code.png) Vc Code
+* ![](image/movavi.png) Movavi Video Suite 
+* ![](image/Photoshop.png) Photoshop – _little_
+* ![](image/Videosurveillance.png) Video surveillance
+* ![](image/Securitysystems.png) Security systems
+##
+### `Code Example`
+##
+### `EDUCATION`
 Samara Law Institute of the Federal Service for the Execution of Punishments:  2000-2005
->#### Courses
-* [![webref](image\webref.png)](https://webref.ru/course)  
 
-* [![ru.code-basics](image\Rucode.png)](https://ru.code-basics.com/)
+##
+### `Courses`
+* [![webref](image/webref.png)](https://webref.ru/course)  
 
-* [![Head First HTML and CSS, 2nd edition](image\Head.png)](https://wickedlysmart.com/hfhtmlcss/)
+* [![ru.code-basics](image/Rucode.png)](https://ru.code-basics.com/)
 
->#### Languages 
+* [![Head First HTML and CSS, 2nd edition](image/Head.png)](https://wickedlysmart.com/hfhtmlcss/)
+##
+### `Languages` 
 * A0
-* I study duolingo[![duolingo](image\duo.png)](https://www.duolingo.com/)
+* I study duolingo[![duolingo](image/duo.png)](https://www.duolingo.com/)
